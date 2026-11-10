@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.purupurpito.empatdata",
+    "sha256_cert_fingerprints": ["95:8F:23:BB:A5:28:A5:AE:66:B2:D1:AF:31:8D:7B:8D:2C:A6:37:AB:82:87:22:3A:55:4E:C7:1A:BC:86:DC:AE"]
+  }
+}]
